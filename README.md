@@ -1,0 +1,2 @@
+# image_batch_processing_by_multithreading
+A WinForm application demo
